@@ -1,0 +1,59 @@
+C:\Users\-AV-\AppData\Local\Temporary Projects\CPMS\bin\Debug\CPMS.exe.config
+C:\Users\-AV-\AppData\Local\Temporary Projects\CPMS\bin\Debug\CPMS.exe
+C:\Users\-AV-\AppData\Local\Temporary Projects\CPMS\bin\Debug\CPMS.pdb
+C:\Users\-AV-\AppData\Local\Temporary Projects\CPMS\bin\Debug\CPMS.xml
+C:\Users\-AV-\AppData\Local\Temporary Projects\CPMS\obj\Debug\CPMS.Form1.resources
+C:\Users\-AV-\AppData\Local\Temporary Projects\CPMS\obj\Debug\CPMS.Resources.resources
+C:\Users\-AV-\AppData\Local\Temporary Projects\CPMS\obj\Debug\CPMS.vbproj.GenerateResource.Cache
+C:\Users\-AV-\AppData\Local\Temporary Projects\CPMS\obj\Debug\CPMS.exe
+C:\Users\-AV-\AppData\Local\Temporary Projects\CPMS\obj\Debug\CPMS.xml
+C:\Users\-AV-\AppData\Local\Temporary Projects\CPMS\obj\Debug\CPMS.pdb
+C:\Users\-AV-\Desktop\CPMS\CPMS\bin\Debug\CPMS.exe.config
+C:\Users\-AV-\Desktop\CPMS\CPMS\obj\Debug\CPMS.exe
+C:\Users\-AV-\Desktop\CPMS\CPMS\obj\Debug\CPMS.xml
+C:\Users\-AV-\Desktop\CPMS\CPMS\obj\Debug\CPMS.pdb
+C:\Users\-AV-\Desktop\CPMS\CPMS\bin\Debug\CPMS.exe
+C:\Users\-AV-\Desktop\CPMS\CPMS\bin\Debug\CPMS.pdb
+C:\Users\-AV-\Desktop\CPMS\CPMS\bin\Debug\CPMS.xml
+C:\Users\-AV-\Desktop\CPMS\CPMS\obj\Debug\CPMS.Resources.resources
+C:\Users\-AV-\Desktop\CPMS\CPMS\obj\Debug\CPMS.vbproj.GenerateResource.Cache
+C:\Users\-AV-\Desktop\CPMS\CPMS\obj\Debug\CPMS.frmLogin.resources
+C:\Users\-AV-\Desktop\CPMS\CPMS\obj\Debug\CPMS.frmRegister.resources
+C:\Users\-AV-\Desktop\CPMS\CPMS\obj\Debug\CPMS.frmDashboard.resources
+C:\Users\-AV-\Desktop\CPMS\CPMS\obj\Debug\CPMS.frmScreen.resources
+C:\Users\-AV-\Desktop\CPMS\CPMS\obj\Debug\CPMS.frmProfile.resources
+C:\Users\-AV-\Desktop\CPMS\CPMS\obj\Debug\CPMS.frmDatabase.resources
+C:\Users\-AV-\Desktop\CPMS\CPMS\obj\Debug\CPMS.frmVaccine.resources
+C:\Users\-AV-\Desktop\CPMS\CPMS\obj\Debug\CPMS.adminRegi.resources
+C:\Users\-AV-\Desktop\CPMS\CPMS\obj\Debug\CPMS.frmRegiDash.resources
+C:\Users\-AV-\Desktop\CPMS\CPMS\obj\Debug\CPMS.frmAccociate.resources
+C:\Users\-AV-\Desktop\CPMS\CPMS\obj\Debug\CPMS.frmPatient.resources
+C:\Users\-AV-\Desktop\CPMS\CPMS\obj\Debug\CPMS.frmSetting.resources
+C:\Users\-AV-\Desktop\CPMS\CPMS\obj\Debug\CPMS.frmOfficerRegi.resources
+C:\Users\-AV-\Desktop\CPMS\CPMS\obj\Debug\CPMS.frmOffiicerRegiDash.resources
+C:\Users\-AV-\Desktop\New folder (2)\CPMS\CPMS\bin\Debug\CPMS.exe.config
+C:\Users\-AV-\Desktop\New folder (2)\CPMS\CPMS\bin\Debug\CPMS.exe
+C:\Users\-AV-\Desktop\New folder (2)\CPMS\CPMS\bin\Debug\CPMS.pdb
+C:\Users\-AV-\Desktop\New folder (2)\CPMS\CPMS\bin\Debug\CPMS.xml
+C:\Users\-AV-\Desktop\New folder (2)\CPMS\CPMS\obj\Debug\CPMS.frmAccociate.resources
+C:\Users\-AV-\Desktop\New folder (2)\CPMS\CPMS\obj\Debug\CPMS.adminRegi.resources
+C:\Users\-AV-\Desktop\New folder (2)\CPMS\CPMS\obj\Debug\CPMS.frmContact.resources
+C:\Users\-AV-\Desktop\New folder (2)\CPMS\CPMS\obj\Debug\CPMS.frmDashboard.resources
+C:\Users\-AV-\Desktop\New folder (2)\CPMS\CPMS\obj\Debug\CPMS.frmDatabase.resources
+C:\Users\-AV-\Desktop\New folder (2)\CPMS\CPMS\obj\Debug\CPMS.frmOfficerRegi.resources
+C:\Users\-AV-\Desktop\New folder (2)\CPMS\CPMS\obj\Debug\CPMS.frmOffiicerRegiDash.resources
+C:\Users\-AV-\Desktop\New folder (2)\CPMS\CPMS\obj\Debug\CPMS.frmPatient.resources
+C:\Users\-AV-\Desktop\New folder (2)\CPMS\CPMS\obj\Debug\CPMS.frmProfile.resources
+C:\Users\-AV-\Desktop\New folder (2)\CPMS\CPMS\obj\Debug\CPMS.frmRegiDash.resources
+C:\Users\-AV-\Desktop\New folder (2)\CPMS\CPMS\obj\Debug\CPMS.frmScreen.resources
+C:\Users\-AV-\Desktop\New folder (2)\CPMS\CPMS\obj\Debug\CPMS.frmLogin.resources
+C:\Users\-AV-\Desktop\New folder (2)\CPMS\CPMS\obj\Debug\CPMS.Resources.resources
+C:\Users\-AV-\Desktop\New folder (2)\CPMS\CPMS\obj\Debug\CPMS.frmRegister.resources
+C:\Users\-AV-\Desktop\New folder (2)\CPMS\CPMS\obj\Debug\CPMS.frmSetting.resources
+C:\Users\-AV-\Desktop\New folder (2)\CPMS\CPMS\obj\Debug\CPMS.frmVaccine.resources
+C:\Users\-AV-\Desktop\New folder (2)\CPMS\CPMS\obj\Debug\CPMS.vbproj.GenerateResource.cache
+C:\Users\-AV-\Desktop\New folder (2)\CPMS\CPMS\obj\Debug\CPMS.exe
+C:\Users\-AV-\Desktop\New folder (2)\CPMS\CPMS\obj\Debug\CPMS.xml
+C:\Users\-AV-\Desktop\New folder (2)\CPMS\CPMS\obj\Debug\CPMS.pdb
+C:\Users\-AV-\Desktop\CPMS\CPMS\bin\Debug\MySql.Data.dll
+C:\Users\-AV-\Desktop\CPMS\CPMS\obj\Debug\CPMS.vbprojResolveAssemblyReference.cache
